@@ -20,5 +20,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Anish Manjekar | IT Undergraduate
 Passion-driven data engineering with a focus on data warehousing, modeling, and analytics.
-
-Let's stay in touolor=white)](https://www.youtube.com/@datawithbaraa)
